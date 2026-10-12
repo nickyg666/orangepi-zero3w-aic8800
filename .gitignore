@@ -7,3 +7,4 @@
 modules.order
 .built-in.a
 .tmp_versions/
+!prebuilt/*.ko
